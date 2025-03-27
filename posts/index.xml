@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Angus Harrow Portfolio</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 10 Jul 2023 15:11:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 14:29:05 +0000</lastBuildDate>
     <atom:link href="https://angusharrow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jack Hammer &lt;change this title&gt;</title>
+      <link>https://angusharrow.github.io/posts/jack-hammer/</link>
+      <pubDate>Thu, 27 Mar 2025 14:29:05 +0000</pubDate>
+      <guid>https://angusharrow.github.io/posts/jack-hammer/</guid>
+      <description>&lt;p&gt;Add some content perhaps an image or two.&lt;/p&gt;&#xA;&lt;p&gt;This audio loops&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;span-3&#34;&gt;&#xA;  &lt;div class=&#34;audio-shortcode&#34;&gt;&#xA;    &#xA;    &lt;p&gt;Jack Hammer&lt;/p&gt;&#xA;    &#xA;    &lt;audio src=&#34;https://angusharrow.github.io/jackhammer-sound-20250327.mp3&#34; autoplay  loop controls&gt;&lt;/audio&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Primary School</title>
       <link>https://angusharrow.github.io/posts/primary-school/</link>
