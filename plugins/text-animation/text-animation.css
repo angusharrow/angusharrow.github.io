@@ -58,3 +58,17 @@ html * {
 .cd-headline.clip b.is-visible {
   opacity: 1;
 }
+
+@media (max-width: 768px) {
+  .cd-words-wrapper {
+    min-height: 150px;  /* Adjust this value based on your font size */
+    position: relative;
+  }
+
+  .cd-words-wrapper b {
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
+
